@@ -77,4 +77,8 @@ const mostrarMensaje = (mensaje, tipo) => {
     });
 };
 
+<<<<<<< HEAD
 //esta linea esta en la rama main
+=======
+// esta linea esta escrita en la nueva rama.
+>>>>>>> nueva_rama
